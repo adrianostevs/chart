@@ -23,7 +23,7 @@ dependencies {
 ```
 
 ## Usage HorizontalBarChart
-Define a view in your layout file:
+<b>Still on development for HorizontalBarChart but can use with mvp.</b> Define a view in your layout file:
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <com.github.fajaragungpramana.chart.view.HorizontalBarChart
