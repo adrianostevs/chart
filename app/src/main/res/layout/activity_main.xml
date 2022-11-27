@@ -4,8 +4,9 @@
     android:layout_height="match_parent">
 
     <com.github.fajaragungpramana.chart.view.HorizontalBarChart
+        android:id="@+id/hbc_view"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_gravity="center" />
 
 </FrameLayout>
